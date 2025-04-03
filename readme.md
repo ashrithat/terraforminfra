@@ -48,11 +48,11 @@ Private hosted zone: dvstech.com
 
 DNS records:
 
-server1.dvstech.com → Server 1
+server1.domainname → Server 1
 
-server2.dvstech.com → Server 2
+server2.domainname → Server 2
 
-interview.dvstech.com → Interview Server
+interview.domainname → Interview Server
 
 Implementation Details
 
